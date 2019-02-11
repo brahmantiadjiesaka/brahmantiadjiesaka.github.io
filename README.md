@@ -25,7 +25,7 @@ header, footer {
 			Tempat/Tanggal lahir: Bogor,17 Juni 2002 <br>
 			Alamat: Cimahpar, Jl Raden khanafiah RT.2 RW 2 <br>
 		</h1>
-		<img src="www.smakbo.sch.id/wp-content/uploads/2018/09/Brahmanti.png">
+		<img src="http://www.smakbo.sch.id/wp-content/uploads/2018/09/Brahmanti.png">
 	</article>
 
 	<footer>SMK-SMAK Bogor <span style="color: red"> </span>
