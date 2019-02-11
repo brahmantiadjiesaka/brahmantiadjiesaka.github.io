@@ -16,7 +16,7 @@ header, footer {
 
 	
 	<header>
-		<p style="color:green;font-family:engravers MT;font-size:28px"><marquee scrollamount="7">WELCOME </p></marquee>
+		<p style="color:green;font-family:engravers MT;font-size:28px"><marquee scrollamount="7">WELCOME</marquee>
 		<h1> BIODATAKU <span style="color: blue"> </span></h1>
 	</header>
 	<article>
